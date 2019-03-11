@@ -1,4 +1,4 @@
-# FOOTPRINTING
+FOOTPRINTING
 
 Online guides: 
 OSSTMM - http://www.isecom.org/research/
@@ -19,9 +19,20 @@ before using their infrastructure for scans.
 
 Traceroute, TTL, and responses from devices help map the targets Topology.
 
+When using tools that generate a topology based on scans keep in mind that info may not be 100% accurate.
 
+When scanning keep variables in mind such as wireless vs wired network and if there are VMs on scanned devices.
 
+Port scanners:
+ Host Discovery -
+ Port Scanning/ Service ID -
+ Service Version ID - 
+ OS ID - 
 
+PORTS: 
+ Well Known or System Ports - 0 to 1023
+ Registered - 1024 to 49151
+ 
 
 
 
