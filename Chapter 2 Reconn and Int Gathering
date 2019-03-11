@@ -26,12 +26,21 @@ When scanning keep variables in mind such as wireless vs wired network and if th
 Port scanners:
  Host Discovery -
  Port Scanning/ Service ID -
+  PORTS: 
+   Well Known or System Ports - 0 to 1023
+   Registered - 1024 to 49151
+ 
+  States:
+   open - service is accessible
+   closed - service is not accessible (pings may get a response that the port/ host is not found)
+   filtered - firewall or similar is in place ( pings ususally not responsed to/ timeout)
+ 
  Service Version ID - 
  OS ID - 
 
-PORTS: 
- Well Known or System Ports - 0 to 1023
- Registered - 1024 to 49151
+
+ 
+
  
 
 
