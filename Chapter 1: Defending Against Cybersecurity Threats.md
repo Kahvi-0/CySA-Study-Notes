@@ -29,6 +29,5 @@
   - auto shunning: Issuing the shun command blocks connections from an attacking host automatically(I.e IPS or other).
   - SIEM systems typically provide alerting, event and log correlation, compliance data gathering and reporting, data and log aggregation, and data retention capabilities. This also means that they can be used for forensic analysis as they should be designed to provide a secure copy of data. 
   - The three objectives of cybersecurity are confidentiality, integrity, and availability. Hashing and the use of integrity monitoring tools like Tripwire are both techniques used to preserve integrity; in fact, file integrity monitoring tools typically use hashing to verify that files remain intact and unchanged.
-  - 
   
 </details>
