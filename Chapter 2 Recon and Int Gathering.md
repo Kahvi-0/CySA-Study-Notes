@@ -155,7 +155,8 @@ Social engineering tools like SET can help get a social engineering attempt setu
   - dig axfr @dns-server domain-name
   
  **note** you can test this on digi.ninja. A site for practising zone transfers.
- 
+ **note** zone transfers is considered ACTIVE RECON
+ **note** forward/reverse DNS lookups are considered ACTIVE RECON
  DNS brute forcing, if zone transfers are denied you can send DNS queries for each IP address that the ORG uses, that can provided answers. 
  
  Whois searches a DB of registered users of a domain, IP address block, and other interesting info such as location, admin contact info, phone numbers, emails, organization name, etc. This will vary from user to user.
