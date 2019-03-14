@@ -96,6 +96,8 @@ When scanning keep variables in mind such as wireless vs wired network and if th
  <summary>Passive Recon</summary>
  <br>
 
+Good resource: https://www.securitysift.com/passive-reconnaissance/
+
 Recon that does not involve "touching" the target at all.
 Information that is publicly available about the target. 
 
