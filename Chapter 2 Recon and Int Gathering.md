@@ -19,6 +19,8 @@ Note: Scans can disrupt services on target systems, so make sure you have permis
 Big cloub providers such as MS Azure and Amazon Web Servics require a vulnerability or Pen Test Form 
 before using their infrastructure for scans.
 
+**Note forward and reverse DNS lookups and zone transfer attempts are considered ACTIVE RECON**
+
 Traceroute, TTL, and responses from devices help map the targets Topology.
 
 When using tools that generate a topology based on scans keep in mind that info may not be 100% accurate.
